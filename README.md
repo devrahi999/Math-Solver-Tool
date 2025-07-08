@@ -25,4 +25,4 @@ Welcome to the **Math Solver Tool** – a beginner-friendly Python CLI calculato
 
 2. **Run the script**
    ```bash
-   python calculator.py
+   python maths_solver_tool.py
